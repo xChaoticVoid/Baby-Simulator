@@ -4,7 +4,7 @@ local Tab = Window:NewTab("Teleports")
 local Section = Tab:NewSection("Areas")
 
 Section:NewButton("Mars", "teleports", function()
-    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1955.13232, 16023.9072, -35070.6523, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1955.0489501953, 16037.608398438, -35070.37890625)
 end)
 
 Section:NewButton("Candy Land", "teleports", function()
